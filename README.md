@@ -1,2 +1,0 @@
-# farah.github.io
-project
